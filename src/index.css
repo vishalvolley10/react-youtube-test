@@ -11,3 +11,16 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.testclass{
+  top: 0;
+  left: 0;
+  z-index: 999;
+  background: rgba(0,0,0,.5);
+  width: 100%;
+  height: 100%;
+  position: absolute;
+}
+
+.video-block{position: relative; width: 640px; height: 390px;}
+.vid{position: relative; z-index: 9;}
